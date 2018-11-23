@@ -1,0 +1,3 @@
+[submodule "py-kms"]
+	path = py-kms
+	url = https://github.com/SystemRage/py-kms.git
