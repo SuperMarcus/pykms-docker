@@ -23,4 +23,4 @@ $ docker-compose up -d --remove-orphans
 
 Use the host's ip address as the activation server, and 1688 as the port.
 
-See [py-kms](https://github.com/SystemRage/py-kms).
+See [py-kms Activation Procedures](https://github.com/SystemRage/py-kms/wiki/Manual#activation-procedure).
